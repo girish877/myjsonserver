@@ -1,29 +1,31 @@
-[
-  {
-    "id": 1,
-    "name": "Giri",
-    "email": "girish@gmail.com",
-    "phone": "1234567890",
-    "address": {
-      "city": "Bangalore"
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Giri",
+      "email": "girish@gmail.com",
+      "phone": "1234567890",
+      "address": {
+        "city": "Bangalore"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mayadhar",
+      "email": "maya@gmail.com",
+      "phone": "1234567890",
+      "address": {
+        "city": "Bangalore"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "phone": "1234567890",
+      "address": {
+        "city": "Bangalore"
+      }
     }
-  },
-  {
-    "id": 2,
-    "name": "Mayadhar",
-    "email": "maya@gmail.com",
-    "phone": "1234567890",
-    "address": {
-      "city": "Bangalore"
-    }
-  },
-  {
-    "id": 3,
-    "name": "Rahul",
-    "email": "rahul@gmail.com",
-    "phone": "1234567890",
-    "address": {
-      "city": "Bangalore"
-    }
-  }
-]
+  ]
+}
